@@ -4,7 +4,7 @@
 https://howtodoinjava.com/spring-cloud/spring-cloud-config-server-git/
 
 - Spring cloud config hello world setup.
-- This is client repo of the combo of spring config client, spring config server and config repository.
+- This is client repo (2 out of 3) of the combo of spring config client, spring config server and config repository.
 
 All repos - 
 
